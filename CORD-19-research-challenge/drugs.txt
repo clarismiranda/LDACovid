@@ -1,0 +1,128 @@
+A
+Absorption Rate Constant
+Accumulation, Accumulation Ratio
+Accuracy
+Activity, Intrinsic
+Addiction
+Affinity
+Agonist
+Agonist, Partial
+Agonist, Full
+Agonist, Inverse
+Allergic Response
+Amplification
+Analgesic
+Anesthetic
+Antagonism
+Area Under the Curve
+AUC
+Availability
+B
+b
+Bioassay or Biological Assay
+Bioavailability
+Biopharmaceutics
+Biotransformation
+Biotranslocation
+Blind Experiment
+C
+Cl
+Ceiling
+Chemotherapy
+Clearance
+Clinical Therapeutic Index
+Compartment(s)
+Compliance
+Cross-Over Experiment
+Cross-Tolerance
+CT Index
+D*
+D
+Dependence
+Desensitization
+Disintegration Time
+Dissolution Time
+Distribution
+Dosage Form
+Dose
+Dose-Duration Curve
+Dose-Effect Curve
+Drug
+Drug Abuse
+Drug Dependence
+Dummy
+EC
+ED
+Effective
+Efficacy
+Elimination Rate Constant
+Equipotent
+Equivalence
+Experiment
+f
+F
+First-Order Kinetics
+First Pass Effect
+Food and Drug Administration
+Generic Drugs
+Habituation
+Half-Life
+Harrison Act
+Hazard
+Hypersensitivity
+Hypnotic
+Idiosyncratic Response
+Infusion Kinetics
+Intrinsic Efficacy
+k
+Latent Period or Latency
+Loading Dose
+Maintenance Dose
+Median Effective Dose
+Metameter
+Multiple Dose Regimens
+N
+Narcotic
+National Formulary
+Negative Control Drug or Negative Control Procedure
+Parameter
+Pharmacodynamics
+Pharmacogenetics
+Pharmacokinetics
+Pharmacology
+Placebo
+Positive Control Drug
+Potency
+Potentiation
+Priming Dose
+Prodrug
+Precision
+R
+Receptors
+Reference Standard
+Reliability
+Risk
+Selectivity
+Sensitivity
+Side Effects
+Spare Receptors
+Specificity
+Standard Drug
+Standardized Safety Margin
+Supersensitivity
+Synergy
+T
+τ
+Tachyphylaxis
+Therapeutic Index
+Therapeutics
+Threshold Dose
+Time-Concentration Curve
+Tolerance
+Toxic Effects
+Toxicology
+Two-state Model
+United States Pharmacopoeia
+Validity
+Volume of Distribution
+Zero-Order Kinetics
